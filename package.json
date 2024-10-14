@@ -1,0 +1,15 @@
+{
+  "name": "new-saml-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "dependencies": {
+    "@authenio/samlify-xsd-schema-validator": "^1.0.5",
+    "express": "^4.21.1",
+    "samlify": "^2.8.11"
+  }
+}
